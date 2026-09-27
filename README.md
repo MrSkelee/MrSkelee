@@ -50,12 +50,6 @@ My name is Andrea. I'm passionate about ethical hacking, technology, and cyberse
   <img src="https://assets.tryhackme.com/img/badges/league-gold.png" alt="Gold League" width="60" title="Gold League" />
   <img src="https://assets.tryhackme.com/img/badges/first-mobile-quiz.png" alt="First Mobile Quiz" width="60" title="First Mobile Quiz" />
 </p>
-
-### <img src="https://www.hackthebox.com/favicon.ico" width="16" /> Hack The Box
-<p>
-  <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" alt="Unwavering User" width="60" title="Unwavering User" />
-  <img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" alt="Cyber Rookie 365" width="60" title="Cyber Rookie 365" />
-  <img src="https://academy.hackthebox.com/storage/badges/0d982edba15037e6d52d54eaa7f0209a/logo.png" alt="Binary Duo Explorer" width="60" title="Binary Duo Explorer" />
 </p>
 
 ---
